@@ -2,7 +2,7 @@
 
 # Repository Structure: Quantum Algorithms Toolkit
 
-graph TD
+
     A[Root] --> B[src/qalgos]
     A --> C[tests]
     A --> D[docs]
